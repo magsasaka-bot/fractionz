@@ -55,7 +55,7 @@ Before installing **FractionAI-BOT**, make sure you have:
 
 ```bash
 https://github.com/magsasaka-bot/fractionz
-cd fractionz
+cd Fractionz
 ```
 
 #### 📌 Step 2: Install Dependencies
