@@ -130,7 +130,8 @@ Modify settings as needed:
   "defaultSolver": "anticaptcha",
   "matchMode": "auto",
   "fee": 0.1,
-  "maxGames": 5
+  "maxGames": 5,
+  "agentName": " "
 }
 ```
 
@@ -143,7 +144,8 @@ Modify settings as needed:
   "defaultSolver": "twocaptcha",
   "matchMode": "manual",
   "fee": 0.01,
-  "maxGames": 3
+  "maxGames": 3,
+  "agentName": " "
 }
 ```
 
