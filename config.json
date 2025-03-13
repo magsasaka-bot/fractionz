@@ -1,0 +1,13 @@
+{
+  "useProxy": false,
+  "antiCaptchaKey": "your-antiCaptcha-API-KEY",
+  "twoCaptchaKey": "your-twoCaptcha-API-KEY",
+  "defaultSolver": "anticaptcha or twocaptcha",
+  "pollingInterval": 10,
+  "retryDelay": 10000,
+  "maxRetries": 3,
+  "matchMode": "auto or manual",
+  "fee": 0.1,
+  "maxGames": 10,
+  "agentName": " "
+}
