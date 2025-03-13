@@ -54,8 +54,8 @@ Before installing **FractionAI-BOT**, make sure you have:
 #### 📌 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/rpchubs/Fraction-AI-Bot.git
-cd Fraction-AI-Bot
+https://github.com/magsasaka-bot/fractionz
+cd Fractionz
 ```
 
 #### 📌 Step 2: Install Dependencies
@@ -82,6 +82,7 @@ your_private_key
 
 ```bash
 nano config.json
+add your agent name
 ```
 
 Modify settings as needed:
@@ -172,7 +173,7 @@ cd Fraction-AI-Bot
 ```
 
 - **Option 2 (Download ZIP):**
-  1. Go to the repository: [FractionAI-BOT GitHub](https://github.com/rpchubs/Fraction-AI-Bot)
+  1. Go to the repository: [FractionAI-BOT GitHub](https://github.com/magsasaka-bot/fractionz)
   2. Click on the **`Code`** button → Select **`Download ZIP`**
   3. Extract the ZIP file
   4. Open a terminal and navigate to the extracted folder:
